@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">📊 Aspiring Data Analyst | Transforming Data into Meaningful Insights</h3>
 <img align="right" width="400" alt="sakshi"  src="https://th.bing.com/th/id/OIP.132pt69csruZIdLKymwVrAHaHa?w=161&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3">
-<p align="left"> <img src="https://th.bing.com/th/id/OIP.132pt69csruZIdLKymwVrAHaHa?w=161&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3" alt="sakshi160244" /> </p>
+<p align="left">  alt="sakshi160244" /> </p>
 
 
 
