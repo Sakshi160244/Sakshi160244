@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi160244&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi160244" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi160244" alt="sakshi160244" /></a> </p>
-
 
 
 - 🔭 I’m exploring on **📊 Creating insightful dashboards and analytics projects with **Python, SQL, Excel, and Power BI**
