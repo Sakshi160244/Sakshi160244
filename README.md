@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">📊 Aspiring Data Analyst | Transforming Data into Meaningful Insights</h3>
-<img align="right" width="400" alt="sakshi"  src="https://img.freepik.com/premium-photo/anime-girl-programmer-working-code-project_1282444-263471.jpg?w=900">
+<img align="right" width="200" alt="sakshi"  src="https://img.freepik.com/premium-photo/anime-girl-programmer-working-code-project_1282444-263471.jpg?w=900">
 <p align="left">  </p>
 
 
