@@ -1,3 +1,4 @@
+![logo](https://github.com/Sakshi160244/Sakshi160244/blob/main/2068754.jpg)
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">📊 Aspiring Data Analyst | Transforming Data into Meaningful Insights</h3>
 <img align="right" width="200" alt="sakshi"  src="https://img.freepik.com/premium-photo/anime-girl-programmer-working-code-project_1282444-263471.jpg?w=900">
