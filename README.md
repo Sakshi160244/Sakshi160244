@@ -1,28 +1,28 @@
 ![logo](https://github.com/Sakshi160244/Sakshi160244/blob/main/github-banner.png)
-<h1 align="center">Hi 👋, I'm Sakshi</h1>
-<h3 align="center">📊 Aspiring Data Analyst | Transforming Data into Meaningful Insights</h3>
+<h1 align="center">Hi, I'm Sakshi</h1>
+<h3 align="center">Aspiring Data Analyst | Transforming Data into Meaningful Insights</h3>
 <img align="right" width="200" alt="sakshi"  src="https://github.com/Sakshi160244/Sakshi160244/blob/main/image%20github.jpg">
 <p align="left">  </p>
 
 
 
-- 🔭 I’m exploring on **📊 Creating insightful dashboards and analytics projects with **Python, SQL, Excel, and Power BI**
+- I’m exploring on Creating insightful dashboards and analytics projects with **Python, SQL, Excel, and Power BI**
 
-- 🌱 I’m currently learning **📚 Learning **Statistics, Data Visualization, Business Intelligence, and Machine Learning**
+- I’m currently learning Learning **Statistics, Data Visualization, Business Intelligence, and Machine Learning**
 
-- 👯 I’m looking to collaborate on **🤝 Open to collaborating on **Data Analytics, Automation, and BI projects**
+- I’m looking to collaborate on Open to collaborating on **Data Analytics, Automation, and BI projects**
 
-- 🤝 I’m looking for help with **Interested in **Predictive Analytics, AI, and Advanced Power BI**
+- I’m looking for help with Interested in **Predictive Analytics, AI, and Advanced Power BI**
 
-- 👨‍💻 All of my projects are available at [Sakshi160244](Sakshi160244)
+- All of my projects are available at [Sakshi160244](Sakshi160244)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/sakshipanchal726](www.linkedin.com/in/sakshipanchal726)
+- I regularly write articles on [www.linkedin.com/in/sakshipanchal726](www.linkedin.com/in/sakshipanchal726)
 
-- 💬 Ask me about **Data Analytics, Python, SQL, Excel, Power BI, Data Cleaning, EDA, and Dashboard Development**
+- Ask me about **Data Analytics, Python, SQL, Excel, Power BI, Data Cleaning, EDA, and Dashboard Development**
 
-- 📫 How to reach me **sakshipanchal726@gmail.com**
+- How to reach me **sakshipanchal726@gmail.com**
 
-- ⚡ Fun fact **I enjoy transforming raw data into meaningful insights.**
+- Fun fact **I enjoy transforming raw data into meaningful insights.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
