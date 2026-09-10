@@ -1,4 +1,4 @@
-![logo](https://github.com/Sakshi160244/Sakshi160244/blob/main/github%20banner.jpg)
+![logo](https://github.com/Sakshi160244/Sakshi160244/blob/main/github-banner.png)
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">📊 Aspiring Data Analyst | Transforming Data into Meaningful Insights</h3>
 <img align="right" width="200" alt="sakshi"  src="https://github.com/Sakshi160244/Sakshi160244/blob/main/image%20github.jpg">
